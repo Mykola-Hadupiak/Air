@@ -17,12 +17,12 @@ Also on the whole page there are animations (on hover or on click) that are made
 
 # About the project
 
-* Different types of navigation, on the desktop it is always there, and on the phone it is presented in the form of an opening menu.
+* Different types of navigation, on the desktop it is always at the top of the page, and on the phone it is presented in the form of a burger menu.
 
 ![Запись_экрана_2023-04-20_в_15_37_19_AdobeExpress (1)](https://user-images.githubusercontent.com/114435233/233369822-19a4270e-d895-4792-a0e9-fbee4da69833.gif)
 
 ** **
-* Image slideron the main page, which can be controlled.
+* Image slider on the main page, which can be controlled.
 
 ![Запись_экрана_2023-04-20_в_15_31_14_AdobeExpress](https://user-images.githubusercontent.com/114435233/233372325-de797b6d-dede-4798-b27e-f0739daee30a.gif)
 
